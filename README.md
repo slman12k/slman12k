@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Salman
 
-<!--
-**slman12k/slman12k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning programming and building real projects with GitHub.
 
-Here are some ideas to get you started:
+## About me
+- Interested in AI, web development, and automation
+- Learning step by step through practical projects
+- Currently improving my coding workflow and GitHub profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## Projects
+- MoneyMind AI - financial guide project
+- GitHub learning notes
+- More projects coming soon
+
+## Goals
+- Build useful web apps
+- Improve my Python and JavaScript
+- Learn professional GitHub workflow
+
+## Contact
+- GitHub: @slman12k
