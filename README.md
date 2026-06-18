@@ -15,9 +15,11 @@ I'm learning programming and building real projects with GitHub.
 - Git & GitHub
 
 ## Projects
-- MoneyMind AI - financial guide project
-- GitHub learning notes
-- More projects coming soon
+### [MoneyMind AI - Your Financial Guide](https://github.com/slman12k/moneymind-ai-your-financial-guide)
+
+A personal finance app for tracking expenses, budgets, goals, and AI-powered financial insights.
+
+**Technologies:** React, TypeScript, Tailwind CSS, Supabase, Capacitor
 
 ## Goals
 - Build useful web apps
